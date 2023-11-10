@@ -1,0 +1,14 @@
+{
+  "name": "umami-transparency",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "wrangler": "3.15.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "jest"
+  }
+}

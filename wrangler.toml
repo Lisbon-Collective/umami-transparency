@@ -1,0 +1,6 @@
+name = "umami-transparency"
+main = "src/index.js"
+compatibility_date = "2023-11-08"
+[vars]
+UMAMI_API_CLIENT_ENDPOINT="https://analytics.gregory-ms.com/"
+UMAMI_WEBSITE_ID="85caec04-0057-4362-8559-9e8cc92b2c55"
